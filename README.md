@@ -7,11 +7,11 @@
 
 ### :memo: Modulos
 
-#### :book: 01 - Conectar
+#### :zap: 01 - Conectar
 
-#### :book: 02 - Fundamentar
+#### :zap: 02 - Fundamentar
 
-#### :book: 03 - Especializar
+#### :zap: 03 - Especializar
 
 
 ### :hammer: Tecnologias
