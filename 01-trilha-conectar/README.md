@@ -66,6 +66,6 @@
 
 
 #### :pushpin: Certificado
-<object data="./discover-conectar-certificate.pdf" type="application/pdf">
-    <p>Seu navegador não tem um plugin pra PDF</p>
-</object>
+<div align="center">
+    <img src="./discover-conectar-certificate.jpg">
+</div>
