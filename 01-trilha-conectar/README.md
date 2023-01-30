@@ -63,3 +63,9 @@
 - [x] Front-end vs Back-end
 - [x] Aplicação WEB Tradicional vs SPA
 - [x] Alinhando a sua jornada
+
+
+#### :pushpin: Certificado
+<object data="./discover-conectar-certificate.pdf" type="application/pdf">
+    <p>Seu navegador não tem um plugin pra PDF</p>
+</object>
