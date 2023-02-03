@@ -18,6 +18,42 @@
 
 #### :bookmark: Guia Estelar de HTML
 - [x] Abertura
+- [x] Instalando plugin de preview HTML
+- [x] O que é HTML
+- [x] Comentários
+- [x] Anatomia das Tags
+- [x] Atributos
+- [x] Atributos Globais
+- [x] Aninhamento Hierarquia
+- [x] Praticando
+- [x] Caracteres Reservados
+- [x] Anatomia Documento
+- [x] Criando Projetos
+
+- [x] Semântica
+- [x] Títulos e Parágrafos
+- [x] Listas
+- [x] Citações
+- [x] Abreviações
+- [x] Detalhes de contato
+- [x] Lista de descrição
+- [x] Representação de código
+- [x] Elementos Genéricos
+
+- [x] Conhecendo a tag âncora
+- [x] Utilizando a tag âncora
+- [x] Conteúdos dentro de elemento a
+- [x] Caminhos e URLS
+- [x] Como navegar pelos diretórios
+- [x] Caminhos absolutos vs relativos
+- [x] Exercício de apresentação
+- [x] Exercício de resolução
+
+- [x] Head
+- [x] Meta
+- [x] Favicon
+- [x] Meta SEO
+- [x] Meta Social
 
 <!--
 #### :pushpin: Certificado
