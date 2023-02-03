@@ -29,7 +29,6 @@
 - [x] Caracteres Reservados
 - [x] Anatomia Documento
 - [x] Criando Projetos
-
 - [x] Semântica
 - [x] Títulos e Parágrafos
 - [x] Listas
@@ -39,7 +38,6 @@
 - [x] Lista de descrição
 - [x] Representação de código
 - [x] Elementos Genéricos
-
 - [x] Conhecendo a tag âncora
 - [x] Utilizando a tag âncora
 - [x] Conteúdos dentro de elemento a
@@ -48,7 +46,6 @@
 - [x] Caminhos absolutos vs relativos
 - [x] Exercício de apresentação
 - [x] Exercício de resolução
-
 - [x] Head
 - [x] Meta
 - [x] Favicon
