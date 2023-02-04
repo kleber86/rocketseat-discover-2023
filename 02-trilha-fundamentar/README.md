@@ -5,6 +5,7 @@
 ### :zap: Trilha Fundamentar
 
 #### :bookmark: Ambiente Dev
+
 - [x] Abertura e ferramentas básicas
 - [x] Sugestão de editor online
 - [x] [Windows] Instalando Edge
@@ -17,6 +18,7 @@
 - [x] [MAC] Instalando VSCode
 
 #### :bookmark: Guia Estelar de HTML
+
 - [x] Abertura
 - [x] Instalando plugin de preview HTML
 - [x] O que é HTML
@@ -51,6 +53,25 @@
 - [x] Favicon
 - [x] Meta SEO
 - [x] Meta Social
+
+#### :bookmark: O guia estelar de CSS
+
+- [x] Abertura
+- [x] Conhecendo o CSS
+- [x] Comentários
+- [x] Anatomia
+- [x] Seletores
+- [x] Box model
+- [x] Origem do CSS
+- [x] A Cascata
+- [x] Especificidade
+- [x] Regra important
+- [x] At rules
+- [x] Shorthand
+- [x] Funções
+- [x] DevTools
+- [x] Cuidados com a escrita
+- [x] Vendor prefixes
 
 <!--
 #### :pushpin: Certificado
