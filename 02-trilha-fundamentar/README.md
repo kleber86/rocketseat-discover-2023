@@ -73,6 +73,26 @@
 - [x] Cuidados com a escrita
 - [x] Vendor prefixes
 
+#### :bookmark: Nem tudo são pixels
+
+- [x] Abertura
+- [x] Introdução
+- [x] Tipos numéricos e unidades comuns
+- [x] Distâncias absolutas e relativas
+- [x] Porcentagens
+- [x] Position
+- [x] Funções
+- [x] Strings e identificadores
+
+#### :bookmark: Uma caixa dentro da outra
+- [x] Abertura
+- [x] Introdução
+- [x] Box Sizing
+- [x] Display-block-inline
+- [x] Margin
+- [x] Padding
+- [x] Border-outline
+
 <!--
 #### :pushpin: Certificado
 <div align="center">
