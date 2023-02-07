@@ -32,5 +32,9 @@ element{
   color: #090;
   color: #009900;
   color: #090a
+
+  /* hsl() values */
+  color: hsl(30, 100%, 50%, 0.6);
+  color: hsla(30, 100%, 50%, 0.6);
 }
 ```
