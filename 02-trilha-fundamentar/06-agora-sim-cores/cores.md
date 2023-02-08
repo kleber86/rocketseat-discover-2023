@@ -36,5 +36,10 @@ element{
   /* hsl() values */
   color: hsl(30, 100%, 50%, 0.6);
   color: hsla(30, 100%, 50%, 0.6);
+
+  /* Global values */
+  color: inherit;
+  color: initial;
+  color: unset;
 }
 ```
