@@ -85,6 +85,7 @@
 - [x] Strings e identificadores
 
 #### :bookmark: Uma caixa dentro da outra
+
 - [x] Abertura
 - [x] Introdução
 - [x] Box Sizing
@@ -93,8 +94,69 @@
 - [x] Padding
 - [x] Border-outline
 
+#### :bookmark: Agora sim, cores
+
+#### Cores
+
+- [x] Abertura
+- [x] Introdução
+- [x] Keyword named values
+- [x] Hexadecimal
+- [x] RGB
+- [x] HSL
+- [x] Global values
+- [x] Conclusão
+
+#### Background
+
+- [x] Introdução
+- [x] Background-color
+- [x] Background-image-repeat
+- [x] Background-position
+- [x] Background-size
+- [x] Background-origin-clip
+- [x] Background-attachment
+- [x] Shorthand
+- [x] Gradient
+- [x] Múltiplos valores
+- [x] Experimentar
+
+#### :bookmark: Posso ver e ouvir o HTML
+
+#### Audio e Vídeo
+
+- [x] Abertura
+- [x] Vídeo
+- [x] Áudio
+- [x] Iframe
+
+#### Images
+
+- [x] Images
+- [x] Praticando images
+- [x] Background image
+- [x] Figures
+- [x] Intro de SVG
+- [x] SVG na prática
+
+#### :bookmark: Posicionando foguetes
+
+- [x] Abertura
+- [x] Layouts
+- [x] Position
+- [x] Static
+- [x] Relative
+- [x] Absolute
+- [x] Fixed
+- [x] Element Stacking
+- [x] Flex
+- [x] Grid
+- [x] Grid ou Flexbox
+
 <!--
+
 #### :pushpin: Certificado
+
 <div align="center">
     <img src="./discover-conectar-certificate.jpg">
 </div>
