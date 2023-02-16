@@ -153,6 +153,53 @@
 - [x] Grid
 - [x] Grid ou Flexbox
 
+#### :bookmark: App bonito, até nos textos
+
+- [x] Trabalhando com fontes
+- [x] Abertura
+- [x] Introdução font-properties
+- [x] Font-family
+- [x] Font-weight
+- [x] Font-style
+- [x] Font-size
+- [x] Web-fonts
+- [x] Mais estilo
+- [x] Mais estilos para os textos
+- [x] Font-variant e font-stretch
+- [x] Letter e word-spacing
+- [x] Line-height e text-transform
+- [x] Text-decoration
+- [x] Text-align
+- [x] Text-shadow
+- [x] Shorthand
+
+#### :bookmark: Formulários de outro planeta
+
+- [x] Abertura
+- [x] O que são forms
+- [x] Form
+- [x] Fieldset legend
+- [x] Label
+- [x] Button
+- [x] Datalist
+- [x] Input
+- [x] Input atributos
+- [x] Password
+- [x] Email
+- [x] URL
+- [x] File
+- [x] Color
+- [x] Checkbox
+- [x] Hidden
+- [x] Radio
+- [x] Textarea
+- [x] Select
+- [x] Optgroup
+- [x] Search
+- [x] Number
+- [x] Range
+- [x] Data e hora
+
 <!--
 
 #### :pushpin: Certificado
