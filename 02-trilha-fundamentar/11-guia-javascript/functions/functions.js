@@ -1,7 +1,7 @@
-// function hoisting
+// arrow function
 
-sayMyName()
-
-function sayMyName() {
-  console.log('kleber')
+const sayMyName = name => {
+  console.log(name)
 }
+
+sayMyName('kleber')
