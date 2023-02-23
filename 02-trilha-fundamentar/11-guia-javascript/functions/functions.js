@@ -1,11 +1,7 @@
-// function scope
+// function hoisting
 
-let subject
+sayMyName()
 
-function createThink() {
-  subject = 'study'
+function sayMyName() {
+  console.log('kleber')
 }
-
-console.log(subject)
-createThink()
-console.log(subject)
