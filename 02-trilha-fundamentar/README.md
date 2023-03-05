@@ -200,6 +200,13 @@
 - [x] Range
 - [x] Data e hora
 
+
+#### :bookmark: Guia Estelar Javascript
+
+#### :bookmark: HTML que faz sentido, para todos
+
+#### :bookmark: Nem só de classes ou IDs
+
 <!--
 
 #### :pushpin: Certificado
